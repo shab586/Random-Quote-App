@@ -1,0 +1,39 @@
+html{
+	background:url(../img/stars.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1880px 1660px;
+	font-family: 'Courgette', cursive;
+}
+
+
+#container{
+	margin-top: 300px;
+	margin-left: 350px;
+	padding: 50px;
+	width: 500px;
+	height: 290px;
+	background:url(../img/sky.jpg);
+	border-radius: 15px;
+}
+h1{
+	text-align: center;
+}
+hr{
+	margin:top;
+}
+
+#messege{
+	text-align: center;
+}
+
+#generateQuote{
+	margin-left: 200px;
+}
+
+button{
+	background-color:rgb(244, 182, 66);
+	padding: 15px;
+	border-radius: 12px;
+	margin-top:20px;
+}
